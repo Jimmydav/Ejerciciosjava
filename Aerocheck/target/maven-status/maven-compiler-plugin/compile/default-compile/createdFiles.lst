@@ -1,0 +1,8 @@
+es\medac\soporte\aerocheck\ConsoleEncoding.class
+es\medac\soporte\aerocheck\TelemetryDomLoader.class
+es\medac\soporte\aerocheck\TelemetryXPathQueries.class
+es\medac\soporte\aerocheck\TelemetrySaxSummary$SummaryHandler.class
+es\medac\soporte\aerocheck\TelemetryAnalysisApp.class
+es\medac\soporte\aerocheck\TelemetrySaxSummary.class
+es\medac\soporte\aerocheck\DomTreeView.class
+es\medac\soporte\aerocheck\Aerocheck.class

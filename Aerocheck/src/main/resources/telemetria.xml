@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inspecciones fecha="2026-01-26" parque="PE-CortijoAlto">
+  <drone id="DR-07" piloto="lucia" modelo="DJI Matrice 350 RTK">
+    <vuelo codigo="V-1001">
+      <evento ts="2026-01-26T08:10:00" tipo="TAKEOFF">
+        <bateria>96</bateria>
+        <gps lat="36.510" lon="-5.607"/>
+      </evento>
+
+      <evento ts="2026-01-26T08:19:30" tipo="ALERTA">
+        <bateria>41</bateria>
+        <codigo>VIBRACION_ALTA</codigo>
+        <detalle>Patrón irregular en pala 3</detalle>
+      </evento>
+
+      <evento ts="2026-01-26T08:24:10" tipo="MEDICION">
+        <bateria>33</bateria>
+        <temperatura>62.5</temperatura>
+      </evento>
+
+      <evento ts="2026-01-26T08:28:40" tipo="ALERTA">
+        <bateria>19</bateria>
+        <codigo>BATERIA_BAJA</codigo>
+        <detalle>Regreso recomendado</detalle>
+      </evento>
+    </vuelo>
+  </drone>
+
+  <drone id="DR-12" piloto="omar" modelo="Colibrí (Arbórea Intellbird)">
+    <vuelo codigo="V-1002">
+      <evento ts="2026-01-26T09:00:00" tipo="TAKEOFF">
+        <bateria>88</bateria>
+        <gps lat="36.524" lon="-5.591"/>
+      </evento>
+
+      <evento ts="2026-01-26T09:12:10" tipo="MEDICION">
+        <bateria>54</bateria>
+        <temperatura>58.0</temperatura>
+      </evento>
+
+      <evento ts="2026-01-26T09:35:00" tipo="LANDING">
+        <bateria>43</bateria>
+      </evento>
+    </vuelo>
+  </drone>
+</inspecciones>
